@@ -3,7 +3,7 @@
 The purpose of our project and analysis is to provide information to enable W. Avy to make a decision on whether a surf and ice cream shop is sustainable year round.  
 ## Results
 
-I have included the summary statistics for June and December below for comparision purposes and am going to describe three key differences.
+I have included the summary statistics for June and December below for comparision purposes and am going to describe three key takeaways.
 1.  One key difference is the minimum temperatures between June and December.  The minimum temperature for June is 64 degrees, while the minimum temperature for December is 56 degrees.  It appears that there will be some days in December and during that time of the year where it could be too cold for surfing and where there may be less of a demand for ice cream.  
 2.  Another interesting item is that the average temperature for June is 75 degrees and the average for December is 71 degrees, which is only a 4 degree difference.  However, it appears that there is more fluctuation in temperatures in December.  
 3.  I have also noted that we have many more data points for June than December, where we have 1517 data points for December and 1700 data points for June.  I would like to understand if there is missing data for December that could be skewing our analysis.
